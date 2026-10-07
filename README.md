@@ -1,5 +1,8 @@
 # Way2
 
+[![Audited checks](https://github.com/ceedot-rock/Way2/actions/workflows/audited-checks.yml/badge.svg)](https://github.com/ceedot-rock/Way2/actions/workflows/audited-checks.yml)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+
 Hands-free smart GPS for people who drive for work.
 
 You talk, it drives the conversation: say where you're starting from and
